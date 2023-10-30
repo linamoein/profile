@@ -1,0 +1,66 @@
+h1 {
+  color: #8C4E37;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 1px
+}
+
+h2 {
+  color: #8C4E37;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+p { color: #400D01;
+}
+
+/* button { color: red;
+
+} */
+
+body { color: #F2EAE4;
+  margin-inline: 40px;
+}
+
+a {
+  color: #400D01;
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+}
+
+.home-card {
+  text-align: center;
+  padding: 16px;
+}
+
+#home-image {
+  border-top-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+  margin: 40px auto;
+}
+
+.btn-brown {
+  color: #400D01;
+  font-size: 16px;
+  background-color: #F2EAE4;
+  border: solid #400D01;
+  padding: 8px 16px;
+  border-radius: 16px;
+}
+
+li {
+  display: inline-block;
+  padding: 16px 8px;
+  list-style: circle;
+}
+
+i {
+  font-size: 40px;
+  text-align: center;
+}
