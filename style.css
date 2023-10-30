@@ -55,6 +55,7 @@ a {
 }
 
 li {
+  color: #400D01;
   display: inline-block;
   padding: 16px 8px;
   list-style: circle;
@@ -63,4 +64,11 @@ li {
 i {
   font-size: 40px;
   text-align: center;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  h1 {
+    color: red
+  }
 }
